@@ -139,3 +139,55 @@
 - Input accepted without validation. Unsafe data possible.
 
 ### Test Status: [Pass/Fail]
+
+### WEEK 3 UPDATE:
+## FR-012: Schedule Pickup Request
+
+- **Test Description:** Ensure user can schedule pickup with valid data
+- **Steps:**
+  1. Log in as `user1`
+  2. Navigate to `/home`
+  3. Fill all fields and submit
+  4. Confirm success message
+- **Expected Result:** Pickup request is submitted, redirects to `/profile`
+
+## FR-016: View Pickup Request History
+
+- **Test Description:** Verify that scheduled requests show in history
+- **Expected Result:** Entry appears under My Requests tab
+
+## FR-017: Cancel Pending Pickup
+
+- **Test Description:** Ensure user can cancel request if status is "Pending"
+- **Expected Result:** Cancel button removes the entry or updates status
+
+## FR-018: Modify Pickup Before 24hr
+
+- **Test Description:** Allow user to edit if >24 hours remain
+- **Expected Result:** Form opens with prefilled data
+
+## FR-019: Show Request Status
+
+- **Test Description:** Each request card should show current status
+- **Expected Result:** Status shown as “Pending”, “Confirmed”, etc.
+
+## FR-020: Real-Time Updates
+
+- **Test Description:** UI should reflect request status change
+- **Expected Result:** Status automatically updates without refresh
+
+## FR-021: Notify on Status Change
+
+- **Test Description:** Notify user when status changes
+- **Expected Result:** Toast or alert appears with update message
+
+## FR-022: Provide Feedback After Pickup
+
+- **Test Description:** Allow user to rate or comment after pickup
+- **Expected Result:** Feedback form appears if status is “Completed”
+
+---
+
+✅ Total Functional Requirements Tested: 8  
+✅ Functional Coverage: ~85%  
+✅ Automated Tests Written: Cypress `waste-management.cy.js`, `request-management.cy.js`, `auth.cy.js`

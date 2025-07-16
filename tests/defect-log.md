@@ -60,3 +60,23 @@
 - **Expected Result:** Validation prevents invalid/special characters
 - **Actual Result:** Feedback is accepted without sanitization
 - **Status:** In progress
+
+# 🐞 CleanCity Defect Log
+
+| ID   | Summary                                     | Severity | Priority | Module               | Status   |
+|------|---------------------------------------------|----------|----------|----------------------|----------|
+| BUG-01 | Request history not displaying             | Major    | High     | Profile              | Open     |
+| BUG-02 | Cannot cancel a pending request            | Critical | High     | Profile → My Requests | Open     |
+| BUG-03 | Edit button inactive pre-24hr              | Major    | Medium   | Request Management   | Open     |
+| BUG-04 | Pickup status not updating in real-time    | Critical | High     | Request Tracking     | Open     |
+| BUG-05 | No alert after feedback submission         | Major    | High     | Feedback             | Open     |
+| BUG-06 | Inaccessible labels for inputs             | Minor    | Medium   | Pickup Form          | Open     |
+| BUG-07 | Wrong pickup date accepted                 | Major    | High     | Pickup Scheduling    | Fixed    |
+| BUG-08 | Typo in success message                    | Cosmetic | Low      | Home Page            | Fixed    |
+| BUG-09 | Schedule Pickup not loading from profile   | Critical | High     | Profile              | Open     |
+| BUG-10 | Missing alt text for profile images        | Minor    | Medium   | Profile              | Open     |
+| BUG-11 | Feedback modal lacks close button          | Minor    | Medium   | Feedback             | Open     |
+| BUG-12 | My Requests tab content loads slowly       | Minor    | Medium   | Profile              | Open     |
+
+> See Jira board for full defect descriptions, screenshots, and resolution status.
+Jira Link: https://drive.google.com/file/d/1gD2IKgbBgFPYlhNNV848WjDQJAO_SMVR/view?usp=sharing 
