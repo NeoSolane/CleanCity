@@ -92,16 +92,18 @@ We adopted the Software Testing Life Cycle (STLC) with four key phases:
 - **Test Completion:** 100%
 - **Video Recording & Screenshots:** ✅ Captured for all critical issues
 
+
 ---
 
-## 📎 Appendices
+### 📎 Appendices
 
-- 🔗 Cypress scripts: `https://github.com/NeoSolane/CleanCity/tree/main/cypress/e2e`
-- 🔗 Test Results: `https://github.com/NeoSolane/CleanCity/blob/main/test-results.txt`
-- 🔗 Defect Log: `https://github.com/NeoSolane/CleanCity/blob/main/tests/defect-log.md`
-- 🔗 Test Cases: `https://github.com/NeoSolane/CleanCity/blob/main/tests/test-cases.md`
-- 🔗 Screenshots: `https://github.com/NeoSolane/CleanCity/tree/main/cypress/screenshots`
-- 🔗 Video Presentation: `https://drive.google.com/file/d/1nIJZe1BxZr6xR-FeBRkqXwxPcTRUSRqy/view?usp=sharing`
+- 🔗 [Cypress scripts](https://github.com/NeoSolane/CleanCity/tree/main/cypress/e2e)  
+- 🔗 [Test Results](https://github.com/NeoSolane/CleanCity/blob/main/test-results.txt)  
+- 🔗 [Defect Log](https://github.com/NeoSolane/CleanCity/blob/main/tests/defect-log.md)  
+- 🔗 [Test Cases](https://github.com/NeoSolane/CleanCity/blob/main/tests/test-cases.md)  
+- 🔗 [Screenshots](https://github.com/NeoSolane/CleanCity/tree/main/cypress/screenshots)  
+- 🔗 [Video Presentation](https://drive.google.com/file/d/1nIJZe1BxZr6xR-FeBRkqXwxPcTRUSRqy/view?usp=sharing)  
+
 
 ---
 
