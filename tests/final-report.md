@@ -101,7 +101,7 @@ We adopted the Software Testing Life Cycle (STLC) with four key phases:
 - 🔗 Defect Log: `https://github.com/NeoSolane/CleanCity/blob/main/tests/defect-log.md`
 - 🔗 Test Cases: `https://github.com/NeoSolane/CleanCity/blob/main/tests/test-cases.md`
 - 🔗 Screenshots: `https://github.com/NeoSolane/CleanCity/tree/main/cypress/screenshots`
-- 🔗 Video Presentation: `TeamName_CleanCity_QA_Video_July16.mp4`
+- 🔗 Video Presentation: `https://drive.google.com/file/d/1nIJZe1BxZr6xR-FeBRkqXwxPcTRUSRqy/view?usp=sharing`
 
 ---
 
