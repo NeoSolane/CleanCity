@@ -96,15 +96,15 @@ We adopted the Software Testing Life Cycle (STLC) with four key phases:
 
 ## 📎 Appendices
 
-- 🔗 Cypress scripts: `cypress/e2e/*.cy.js`
-- 🔗 Test Results: `test-results.txt`
-- 🔗 Defect Log: `tests/defect-log.md`
-- 🔗 Test Cases: `tests/test-cases.md`
-- 🔗 Screenshots: `cypress/screenshots/`
+- 🔗 Cypress scripts: `https://github.com/NeoSolane/CleanCity/tree/main/cypress/e2e`
+- 🔗 Test Results: `https://github.com/NeoSolane/CleanCity/blob/main/test-results.txt`
+- 🔗 Defect Log: `https://github.com/NeoSolane/CleanCity/blob/main/tests/defect-log.md`
+- 🔗 Test Cases: `https://github.com/NeoSolane/CleanCity/blob/main/tests/test-cases.md`
+- 🔗 Screenshots: `https://github.com/NeoSolane/CleanCity/tree/main/cypress/screenshots`
 - 🔗 Video Presentation: `TeamName_CleanCity_QA_Video_July16.mp4`
 
 ---
 
 ✅ **Submitted by:**  
-CleanCity QA Team  
+QA Solutions Team  
 July 16, 2025
